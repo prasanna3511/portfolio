@@ -1,9 +1,10 @@
 .home__bg {
-    background-image: url('./img/pnewbg.jpg');
+    background-image: url('./img/mynew2.jpg');
     background-color: #010101;
-    background-position: 50%;
+    background-position: 70%;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100vh;
 }
 
 li.nav__items {
